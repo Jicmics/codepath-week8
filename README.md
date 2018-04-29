@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 <b>SQL INJECTION #1</b>
 
 WE USE A BASIC COMMAND TO SET A TIMER THAT RELOADS THE SALE PERSON PAGE AFTER THE SET AMOUNT OF TIME
-<img src="my_gif_walkthrough_url" width="800">
+<img src="SQLi (BLUE).gif" width="800">
 
 
 <b>SESSION HIJACKING</b>
